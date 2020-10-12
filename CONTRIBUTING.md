@@ -1,4 +1,3 @@
-# How to Contribute
+# Contributing
 
-See the [contributing section of the
-website](https://metallb.universe.tf/community) for information.
+Please check out the [contributing section](https://docs.metal-stack.io/stable/development/contributing/) in our [docs](https://docs.metal-stack.io/).
